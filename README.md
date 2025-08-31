@@ -27,14 +27,14 @@
 
 ## 🚀 Featured Projects  
 
-📌 [**VillaEase – Room Booking App**](#)  
+📌 [**VillaEase – Room Booking App**](#)(https://manchestervillas.netlify.app/)
 *Full-stack app for managing villas & rooms with admin panel (React + Django)*  
 
-📌 [**UI/UX Portfolio**](https://redwan-ui-ux-portfolio.netlify.app)  
-*Collection of my design case studies & prototypes*  
+📌 [Wandernest: A Travel and Tourism based website](https://wandernestbd.netlify.app/)
 
-📌 [**Developer Portfolio**](https://Redwan-Ahmed241.github.io)  
-*Showcasing my web development projects & coding journey*  
+📌 [University Event Administration System]
+
+📌 [Shopify Store]
 
 ---
 
