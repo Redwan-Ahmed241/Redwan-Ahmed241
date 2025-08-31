@@ -6,7 +6,7 @@
 
 - 🌱 Currently working on: **VillaEase – A room booking platform**  
 - 🎯 Focused on: React, TailwindCSS, Rest APIs  
-- 🏆 Regular participant in coding contests (HackerRank, Codeforces, LeetCode, CodeChef)  
+- 🏆 Regular participant in coding contests (HackerRank, Codeforces, LeetCode, Vjudge)  
 - 🎨 I also design intuitive UI/UX prototypes in **Figma**  
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio (UI/UX)](https://redwan-ui-ux-portfolio.netlify.app) | [Portfolio (Developer)](https://Redwan-Ahmed241.github.io)  
 - ⚡ Fun fact: I love creating sleek UI that feels simple but powerful ✨  
