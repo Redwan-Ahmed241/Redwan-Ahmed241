@@ -27,7 +27,7 @@
 
 ## 🚀 Featured Projects  
 
-📌 [**VillaEase – Room Booking App**](#)(https://manchestervillas.netlify.app/)
+📌 [**VillaEase – Room Booking App**](https://manchestervillas.netlify.app/)
 *Full-stack app for managing villas & rooms with admin panel (React + Django)*  
 
 📌 [Wandernest: A Travel and Tourism based website](https://wandernestbd.netlify.app/)
