@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shah Redwan Ahmed  
+
 
 ![Profile Banner](./A_digital_graphic_introduction_card.png)  
 
