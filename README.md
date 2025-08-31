@@ -1,6 +1,6 @@
 
 
-![Profile Banner](./A_digital_graphic_introduction_card.png)  
+![Profile Banner](./A_digital_graphic_introduction_card.jpg)  
 
 🎨 **Frontend Developer** | 💡 **UI/UX Designer** | 🏆 **Competitive Programmer**  
 
