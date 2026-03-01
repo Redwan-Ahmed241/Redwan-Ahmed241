@@ -60,7 +60,7 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redwan-Ahmed241&show_icons=true&theme=tokyonight)](https://github.com/Redwan-Ahmed241) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redwan-Ahmed241&layout=compact&theme=tokyonight)](https://github.com/Redwan-Ahmed241)
+[![](https://github-readme-stats.vercel.app/api?username=Redwan-Ahmed241&show_icons=true&theme=tokyonight)](https://github.com/Redwan-Ahmed241) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redwan-Ahmed241&layout=compact&theme=tokyonight)](https://github.com/Redwan-Ahmed241)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Redwan-Ahmed241&theme=tokyonight&hide_border=true)](https://github.com/Redwan-Ahmed241)
 
