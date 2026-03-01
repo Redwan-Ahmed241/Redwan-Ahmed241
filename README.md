@@ -6,7 +6,6 @@
 - 🎯 Focused on: React, TailwindCSS, REST APIs
 - 🏆 Regular participant in coding contests (HackerRank, Codeforces, LeetCode, Vjudge)
 - 🎨 I also design intuitive UI/UX prototypes in **Figma**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shah-redwan-ahmed-78b149249/) | [Portfolio (UI/UX)](https://redwan-ui-ux-portfolio.netlify.app) | [Portfolio (Developer)](https://Redwan-Ahmed241.github.io)
 - ⚡ Fun fact: I love creating sleek UI that feels simple but powerful ✨
 
 ---
@@ -60,28 +59,35 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redwan-Ahmed241&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwan-Ahmed241&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Redwan-Ahmed241&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Redwan-Ahmed241&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redwan-Ahmed241&show_icons=true&theme=tokyonight)](https://github.com/Redwan-Ahmed241) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redwan-Ahmed241&layout=compact&theme=tokyonight)](https://github.com/Redwan-Ahmed241)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Redwan-Ahmed241&theme=tokyonight&hide_border=true)](https://github.com/Redwan-Ahmed241)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Redwan-Ahmed241&label=Profile%20Views&color=blue&style=flat)](https://github.com/Redwan-Ahmed241)
+
 </div>
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💻 Portfolio (Developer): [Redwan-Ahmed241.github.io](https://Redwan-Ahmed241.github.io)
-- 🎨 Portfolio (UI/UX): [redwan-ui-ux-portfolio.netlify.app](https://redwan-ui-ux-portfolio.netlify.app)
-- 🏆 HackerRank: [hackerrank.com/RedCodes](https://www.hackerrank.com/RedCodes)
-- 👔 LinkedIn: [linkedin.com/in/shah-redwan-ahmed-78b149249/](https://www.linkedin.com/in/shah-redwan-ahmed-78b149249/)
-- 📧 Email: **sahmed221241@bscse.uiu.ac.bd**
+<div align="left">
+  <a href="https://Redwan-Ahmed241.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Developer_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Developer Portfolio" />
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/shah-redwan-ahmed-78b149249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/RedCodes" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:sahmed221241@bscse.uiu.ac.bd">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<br>
 
 ⭐️ *“Code + Design + Problem Solving = Complete Developer.”*
