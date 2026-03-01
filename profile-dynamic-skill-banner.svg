@@ -21,4 +21,100 @@
     
     <symbol id="node" viewBox="0 0 160 60">
       <rect x="0" y="0" width="160" height="60" rx="30" fill="rgba(13, 17, 23, 0.8)" stroke="#444d56" stroke-width="1"/>
-      <circle cx="30" cy="30"
+      <circle cx="30" cy="30" r="15" fill="#0d1117" stroke="#58a6ff" stroke-width="2" filter="url(#glow-cyan)"/>
+      <circle cx="30" cy="30" r="6" fill="#58a6ff" opacity="0.8">
+        <animate attributeName="r" values="6;8;6" dur="3s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite" />
+      </circle>
+    </symbol>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="60 60" dur="20s" repeatCount="indefinite" />
+  </rect>
+
+  <g stroke="#30363d" stroke-width="1.5" stroke-dasharray="6 6">
+    <path d="M200,120 L500,250"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="15s" repeatCount="indefinite"/></path>
+    <path d="M200,250 L500,250"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="12s" repeatCount="indefinite"/></path>
+    <path d="M200,380 L500,250"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="18s" repeatCount="indefinite"/></path>
+    <path d="M380,120 L500,250"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="20s" repeatCount="indefinite"/></path>
+    <path d="M380,250 L500,250"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="14s" repeatCount="indefinite"/></path>
+    <path d="M380,380 L500,250"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="17s" repeatCount="indefinite"/></path>
+    
+    <path d="M1000,250 L1120,120"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="16s" repeatCount="indefinite"/></path>
+    <path d="M1000,250 L1120,250"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="11s" repeatCount="indefinite"/></path>
+    <path d="M1000,250 L1120,380"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="19s" repeatCount="indefinite"/></path>
+    <path d="M1000,250 L1300,180"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="13s" repeatCount="indefinite"/></path>
+    <path d="M1000,250 L1300,320"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="15s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g filter="url(#glow-cyan)" class="st-main">
+    <text x="750" y="250" text-anchor="middle" dominant-baseline="middle" font-size="50" fill="#f0f6fc" letter-spacing="1">
+      Building Scalable Web Experiences
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="4s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <g transform="translate(120, 90)">
+    <animateTransform attributeName="transform" type="translate" values="120 90; 120 85; 120 90" dur="6s" repeatCount="indefinite" begin="0s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="20" fill="#f0f6fc">HTML</text>
+  </g>
+  <g transform="translate(120, 220)">
+    <animateTransform attributeName="transform" type="translate" values="120 220; 120 225; 120 220" dur="6s" repeatCount="indefinite" begin="1s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="20" fill="#f0f6fc">CSS</text>
+  </g>
+  <g transform="translate(120, 350)">
+    <animateTransform attributeName="transform" type="translate" values="120 350; 120 345; 120 350" dur="7s" repeatCount="indefinite" begin="2s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="19" fill="#f0f6fc">Express</text>
+  </g>
+  <g transform="translate(300, 90)">
+    <animateTransform attributeName="transform" type="translate" values="300 90; 295 90; 300 90" dur="7s" repeatCount="indefinite" begin="0.5s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="18" fill="#f0f6fc">JavaScript</text>
+  </g>
+  <g transform="translate(300, 220)">
+    <animateTransform attributeName="transform" type="translate" values="300 220; 305 220; 300 220" dur="7s" repeatCount="indefinite" begin="1.5s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="20" fill="#f0f6fc">React</text>
+  </g>
+  <g transform="translate(300, 350)">
+    <animateTransform attributeName="transform" type="translate" values="300 350; 295 350; 300 350" dur="6s" repeatCount="indefinite" begin="2.5s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="18" fill="#f0f6fc">MongoDB</text>
+  </g>
+
+  <g transform="translate(1040, 90)">
+    <animateTransform attributeName="transform" type="translate" values="1040 90; 1045 90; 1040 90" dur="8s" repeatCount="indefinite" begin="2s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="20" fill="#f0f6fc">Git</text>
+  </g>
+  <g transform="translate(1040, 220)">
+    <animateTransform attributeName="transform" type="translate" values="1040 220; 1035 220; 1040 220" dur="8s" repeatCount="indefinite" begin="3s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="19" fill="#f0f6fc">GitHub</text>
+  </g>
+  <g transform="translate(1040, 350)">
+    <animateTransform attributeName="transform" type="translate" values="1040 350; 1045 350; 1040 350" dur="7s" repeatCount="indefinite" begin="1s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="19" fill="#f0f6fc">FastAPI</text>
+  </g>
+  <g transform="translate(1220, 150)">
+    <animateTransform attributeName="transform" type="translate" values="1220 150; 1220 155; 1220 150" dur="5s" repeatCount="indefinite" begin="2.5s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="18" fill="#f0f6fc">REST APIs</text>
+  </g>
+  <g transform="translate(1220, 290)">
+    <animateTransform attributeName="transform" type="translate" values="1220 290; 1220 285; 1220 290" dur="5s" repeatCount="indefinite" begin="3.5s" />
+    <use href="#node" width="160" height="60"/>
+    <text x="60" y="35" class="st-text" font-size="17" fill="#f0f6fc">Code Quality</text>
+  </g>
+  
+  <rect width="100%" height="10" fill="linear-gradient(90deg, #58a6ff00, #58a6ff88, #58a6ff00)" y="0"/>
+  <rect width="100%" height="10" fill="linear-gradient(90deg, #58a6ff00, #58a6ff88, #58a6ff00)" y="490"/>
+
+</svg>
