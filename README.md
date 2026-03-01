@@ -13,13 +13,7 @@
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -65,16 +59,25 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redwan-Ahmed241&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redwan-Ahmed241&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Redwan-Ahmed241&theme=tokyonight&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=Redwan-Ahmed241&label=Profile%20Views&color=blue&style=flat)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Redwan-Ahmed241&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwan-Ahmed241&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Redwan-Ahmed241&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Redwan-Ahmed241&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
 ## 🌐 Connect with Me
 
 - 💻 Portfolio (Developer): [Redwan-Ahmed241.github.io](https://Redwan-Ahmed241.github.io)
+- 🎨 Portfolio (UI/UX): [redwan-ui-ux-portfolio.netlify.app](https://redwan-ui-ux-portfolio.netlify.app)
 - 🏆 HackerRank: [hackerrank.com/RedCodes](https://www.hackerrank.com/RedCodes)
 - 👔 LinkedIn: [linkedin.com/in/shah-redwan-ahmed-78b149249/](https://www.linkedin.com/in/shah-redwan-ahmed-78b149249/)
 - 📧 Email: **sahmed221241@bscse.uiu.ac.bd**
