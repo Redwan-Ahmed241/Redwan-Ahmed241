@@ -1,6 +1,6 @@
 ![Dynamic Skill Banner](./profile-dynamic-skill-banner.svg)
 
-🎨 **Frontend Developer** | 💡 **UI/UX Designer** | 🏆 **Competitive Programmer**
+🎨 **FullStack Developer** | 🏆 **Competitive Programmer**
 
 - 🌱 Currently working on: **VillaEase – A room booking platform**
 - 🎯 Focused on: React, TailwindCSS, REST APIs
